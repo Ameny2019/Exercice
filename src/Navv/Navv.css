@@ -1,0 +1,16 @@
+#koko{
+margin-left: 10px;
+margin-right:5px;
+display: flex;
+flex-direction: row;
+}
+#imgd{
+    display: flex;
+
+width: 100px;
+height: 100px; ;
+}
+#textis{
+display: flex;
+flex-direction: column;
+}
